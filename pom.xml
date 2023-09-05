@@ -8,7 +8,7 @@
 		<version>2.7.9</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.github.acnaweb</groupId>
+	<groupId>com.github.ygorcalimanis</groupId>
 	<artifactId>study-api</artifactId>
 	<version>1.0</version>
 	<name>study-api</name>

@@ -1,12 +1,12 @@
-package com.github.acnaweb.study_api.service;
+package com.github.ygorcalimanis.study_api.service;
 
 import java.util.List;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.github.acnaweb.study_api.model.Pessoa;
-import com.github.acnaweb.study_api.repository.PessoaRepository;
+import com.github.ygorcalimanis.study_api.model.Pessoa;
+import com.github.ygorcalimanis.study_api.repository.PessoaRepository;
 
 @Service
 public class PessoaService {

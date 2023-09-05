@@ -1,4 +1,4 @@
-package com.github.acnaweb.study_api.controller.dto;
+package com.github.ygorcalimanis.study_api.controller.dto;
 
 public class PessoaRequestCreate {
 	private String nome;

@@ -1,4 +1,4 @@
-package com.github.acnaweb.study_api.controller;
+package com.github.ygorcalimanis.study_api.controller;
 
 import java.util.List;
 import java.util.stream.Collectors;
@@ -13,12 +13,12 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.github.acnaweb.study_api.controller.dto.PessoaRequestCreate;
-import com.github.acnaweb.study_api.controller.dto.PessoaRequestUpdate;
-import com.github.acnaweb.study_api.controller.dto.SearchedPessoa;
-import com.github.acnaweb.study_api.model.Pessoa;
-import com.github.acnaweb.study_api.repository.PessoaRepository;
-import com.github.acnaweb.study_api.service.PessoaService;
+import com.github.ygorcalimanis.study_api.controller.dto.PessoaRequestCreate;
+import com.github.ygorcalimanis.study_api.controller.dto.PessoaRequestUpdate;
+import com.github.ygorcalimanis.study_api.controller.dto.SearchedPessoa;
+import com.github.ygorcalimanis.study_api.model.Pessoa;
+import com.github.ygorcalimanis.study_api.repository.PessoaRepository;
+import com.github.ygorcalimanis.study_api.service.PessoaService;
 
 @RestController
 @RequestMapping("/pessoas")

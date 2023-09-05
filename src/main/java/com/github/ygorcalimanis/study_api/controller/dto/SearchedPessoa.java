@@ -1,6 +1,6 @@
-package com.github.acnaweb.study_api.controller.dto;
+package com.github.ygorcalimanis.study_api.controller.dto;
 
-import com.github.acnaweb.study_api.model.Pessoa;
+import com.github.ygorcalimanis.study_api.model.Pessoa;
 
 public class SearchedPessoa {
 	private Long id;

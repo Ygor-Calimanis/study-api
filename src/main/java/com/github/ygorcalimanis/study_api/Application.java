@@ -1,4 +1,4 @@
-package com.github.acnaweb.study_api;
+package com.github.ygorcalimanis.study_api;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

@@ -1,4 +1,4 @@
-package com.github.acnaweb.study_api.model;
+package com.github.ygorcalimanis.study_api.model;
 
 import java.time.LocalDate;
 import java.time.LocalDateTime;
